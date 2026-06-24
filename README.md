@@ -4,22 +4,17 @@
 
 # Hi 👋, I'm Lakshya Mittal
 
-### Full Stack Developer 🚀 | Open Source Contributor 🌟 | AI Engineer 🤖
+### Full Stack Developer • Open Source Contributor • AI Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+🚀;Open+Source+Contributor+🌟;AI+Engineer+🤖;Building+Projects+and+Learning+Every+Day" />
-
-</div>
-
-<div align="center">
-
-<a href="https://linkedin.com/in/lakshya-mittal-369120327"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://instagram.com/lxyaverse"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.youtube.com/c/lxyaverse"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> <a href="https://lxya-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Bridgr;Open+Source+Contributor;GSSoC+Contributor;Exploring+AI+Engineering;Learning+AWS+and+DevOps" />
 
 <br>
 
-<a href="https://leetcode.com/u/lakshyamittal_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a> <a href="https://codeforces.com/profile/lakshya_43"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/></a> <a href="https://www.kaggle.com/lakshya430"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Profile%20Views-3K-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Hashtag-Fr?style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/badge/Open%20To-Collaborate-success?style=for-the-badge" />
 
 </div>
-
 
 ---
 
@@ -64,6 +59,50 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/lakshya-mittal-369120327">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/lxyaverse">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/c/lxyaverse">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Hashtag-Fr">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br>
+
+<a href="https://leetcode.com/u/lakshyamittal_05/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/lakshya_43">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a>
+
+<a href="https://www.kaggle.com/lakshya430">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://lxya-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+💬 Always open to learning, collaborating, and building something impactful together!
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -88,7 +127,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Hashtag_Fr/Hashtag_Fr/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<img src="https://raw.githubusercontent.com/Hashtag-Fr/Hashtag-Fr/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
 
 </div>
 
@@ -108,10 +147,11 @@
 
 <div align="center">
 
-
-<div align="center">
-
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hashtag-Fr/Hashtag-Fr/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hashtag-Fr/Hashtag-Fr/pacman-output/pacman-contribution-graph.svg?game=pacman"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hashtag-Fr/Hashtag-Fr/pacman-output/pacman-contribution-graph.svg?game=pacman"> </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hashtag-Fr/Hashtag-Fr/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hashtag-Fr/Hashtag-Fr/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hashtag-Fr/Hashtag-Fr/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 </div>
 
@@ -139,7 +179,9 @@
 
 <div align="center">
 
-### Thanks for visiting my profile ⭐
+### ⭐ If you like my work, please star my repositories — it motivates me to keep building! ⭐
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
