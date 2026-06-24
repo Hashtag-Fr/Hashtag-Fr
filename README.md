@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Lakshya%20Mittal&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Open%20Source%20Contributor%20•%20AI%20Engineer&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Lakshya%20Mittal&fontSize=42&fontAlignY=28&desc=Full%20Stack%20Developer%20•%20Open%20Source%20Contributor%20•%20AI%20Engineer&descAlignY=48&descSize=16"/>
 
 # Hi 👋, I'm Lakshya
 
@@ -36,25 +36,25 @@
 
 ### Languages
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript" />
 </p>
 
 ### Frontend
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
 ### Backend
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 ### Database & Cloud
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=firebase,mongodb,aws,docker,git" />
 </p>
 
@@ -169,6 +169,6 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=gradient"/>
 
 </div>
