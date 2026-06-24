@@ -1,12 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Lakshya%20Mittal&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Open%20Source%20Contributor%20•%20AI%20Engineer&descAlignY=58&descSize=20"/>
 
-# Hi 👋, I'm Lakshya Mittal
+# Hi 👋, I'm Lakshya
 
-### Full Stack Developer • Open Source Contributor • AI Engineer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Bridgr;Open+Source+Contributor;GSSoC+Contributor;Exploring+AI+Engineering;Learning+AWS+and+DevOps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Bridgr;Open+Source+Contributor;GSSoC+Contributor;Exploring+AI+Engineering;Learning+AWS+and+DevOps;Building+Projects+Every+Day" />
 
 <br>
 
@@ -20,6 +18,8 @@
 
 ## 🚀 About Me
 
+<div align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /> </div>
+
 * 🎓 Computer Science Student
 * 💻 Full Stack Developer
 * 🌱 Learning System Design, AWS, DevOps & AI Engineering
@@ -28,6 +28,7 @@
 * ⚡ Building and shipping projects continuously
 * 📫 Reach me at **[lakshyamittal583@gmail.com](mailto:lakshyamittal583@gmail.com)**
 * 🌐 Portfolio: **https://lxya-portfolio.vercel.app**
+---
 
 ---
 
@@ -35,26 +36,26 @@
 
 ### Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript" />
 </p>
 
 ### Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
 ### Backend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 ### Database & Cloud
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,aws,docker,git"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,aws,docker,git" />
 </p>
 
 ---
@@ -63,41 +64,26 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/lakshya-mittal-369120327">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p>
+<a href="https://linkedin.com/in/lakshya-mittal-369120327"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/lxyaverse"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/c/lxyaverse"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/Hashtag-Fr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-<a href="https://instagram.com/lxyaverse">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<p>
+<a href="https://leetcode.com/u/lakshyamittal_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/lakshya_43"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/></a>
+<a href="https://www.kaggle.com/lakshya430"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://lxya-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-<a href="https://www.youtube.com/c/lxyaverse">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Hashtag-Fr">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br>
-
-<a href="https://leetcode.com/u/lakshyamittal_05/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/lakshya_43">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
-</a>
-
-<a href="https://www.kaggle.com/lakshya430">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://lxya-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<p>
+<a href="mailto:lakshyamittal583@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 </div>
+
 
 💬 Always open to learning, collaborating, and building something impactful together!
 
