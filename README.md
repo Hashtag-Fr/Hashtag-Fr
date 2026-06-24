@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hashtag-Fr&theme=tokyonight&row=1&column=7"/>
+  <img src="https://raw.githubusercontent.com/Hashtag_Fr/Hashtag_Fr/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 </div>
 
